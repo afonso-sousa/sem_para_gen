@@ -1,0 +1,17 @@
+### Python ###
+__pycache__/
+
+### VS Code ###
+.vscode/*
+
+### Local ###
+output/
+raw-data/
+processed-data/
+
+
+synonyms2.py
+testing.py
+to_remove.py
+sem_graph_utils/
+output.svg
